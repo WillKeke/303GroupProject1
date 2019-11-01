@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Project1\Elevator.h(102,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Project1\Elevator.h(105,27): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Project1\Elevator.h(130,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Project1\Elevator.h(133,27): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Project1\Elevator.h(153,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Project1\Elevator.h(160,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Project1\Elevator.h(171,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Project1\Header.h(40,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Project1\Source.cpp(49,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Project1\Source.cpp(56,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Project1\Source.cpp(58,25): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Project1\Source.cpp(81,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Project1\Source.cpp(96,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Project1\Source.cpp(106,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Project1\Source.cpp(20,6): warning C4101:  'choice': unreferenced local variable
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Project1\Source.cpp(19,6): warning C4101:  'floors': unreferenced local variable
+  Project1.vcxproj -> C:\Users\Danuz\OneDrive\Desktop\New folder\Project A\303_Project1-master\Project1\Debug\Project1.exe

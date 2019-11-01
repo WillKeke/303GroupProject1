@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Elevator.h(93,1): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Elevator.h(105,1): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Elevator.h(109,1): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Elevator.h(178,1): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Elevator.h(180,1): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Elevator.h(275,1): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Elevator.h(276,1): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Header.h(67,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Header.h(161,29): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Header.h(178,22): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Header.h(206,29): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Header.h(224,26): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Header.h(252,38): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Header.h(255,29): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Header.h(272,29): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Header.h(273,38): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Header.h(541,36): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\Project_1_303_due\Header.h(542,30): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+  Project_1_303_due.vcxproj -> C:\Users\Danuz\OneDrive\Desktop\New folder\Project B\x64\Debug\Project_1_303_due.exe

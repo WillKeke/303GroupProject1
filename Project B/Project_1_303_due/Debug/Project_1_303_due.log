@@ -1,0 +1,21 @@
+﻿  Source.cpp
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\elevator.h(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\elevator.h(143): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\elevator.h(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\elevator.h(173): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\elevator.h(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\elevator.h(200): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\elevator.h(203): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\elevator.h(223): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\elevator.h(237): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\elevator.h(240): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\header.h(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\header.h(67): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\header.h(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\header.h(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\header.h(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\header.h(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\header.h(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\header.h(419): warning C4018: '<': signed/unsigned mismatch
+c:\users\thomas\source\repos\project_1_303_due\project_1_303_due\header.h(428): warning C4018: '<': signed/unsigned mismatch
+  Project_1_303_due.vcxproj -> c:\users\thomas\source\repos\Project_1_303_due\Debug\Project_1_303_due.exe
